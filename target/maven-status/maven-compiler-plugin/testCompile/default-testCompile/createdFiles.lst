@@ -1,0 +1,9 @@
+com\archetype\webapp\controller\UserFormControllerTest.class
+com\archetype\webapp\controller\UpdatePasswordControllerTest.class
+com\archetype\webapp\controller\UserControllerTest.class
+com\archetype\webapp\controller\PasswordHintControllerTest.class
+com\archetype\webapp\listener\StartupListenerTest.class
+com\archetype\webapp\filter\MockFilterChain.class
+com\archetype\webapp\controller\SignupControllerTest.class
+com\archetype\webapp\controller\BaseControllerTestCase.class
+com\archetype\webapp\filter\LocaleFilterTest.class
